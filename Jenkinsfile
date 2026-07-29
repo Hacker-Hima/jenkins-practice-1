@@ -22,7 +22,7 @@ post{
   success{
     echo 'Programm Executed Successfully'
   }
-  failue{
+  failure{
     echo 'ProgramExecution Failed'
   }
   always{
